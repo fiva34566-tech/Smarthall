@@ -1,0 +1,19 @@
+{
+  "tapo": [
+    {
+      "ip": "192.168.0.104",
+      "email": "pache4417@gmail.com",
+      "password": "n140808n"
+    }
+  ],
+  "calendar": {
+    "url": "https://caldav.yandex.ru/",
+    "username": "nicitaboicko@yandex.ru",
+    "password": "xetmthkjucjzkhnc"
+  },
+  "schedule": {
+    "check_interval_seconds": 30,
+    "turn_on_before_minutes": 10,
+    "turn_off_after_minutes": 0
+  }
+}
